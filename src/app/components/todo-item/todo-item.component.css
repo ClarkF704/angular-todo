@@ -1,0 +1,15 @@
+.del{
+    background-color:red;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer; 
+    float: right;
+}
+
+.todo{
+    padding:10px;
+}
+
+.is-complete{
+    text-decoration: line-through;
+}
